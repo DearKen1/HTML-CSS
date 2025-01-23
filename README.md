@@ -1,2 +1,2 @@
 HTML+CSS
-Автор: DearKen
+Автор: DearKent
