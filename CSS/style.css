@@ -1,0 +1,117 @@
+body {
+    color: #000000;
+    font-family: "Inter";
+    font-weight: 400;
+    font-size: 14px;
+}
+
+.header-name {
+    color: #426B1F;
+    font-family: "Newsreader";
+    font-weight: 500;
+    font-size: 32px;
+}
+
+.header-bask {
+    color: #FFFFFF;
+    background-color: #426B1F;
+    text-decoration: none;
+    font-size: 16px;
+}
+
+.header-contact-text {
+    color: #000000;
+}
+
+.header-contact-link {
+    text-decoration: none;
+}
+
+.header-nav {
+    color: #000000;
+    text-decoration: none;
+    font-size: 16px;
+}
+
+.main-green {
+    color: #FFFFFF;
+    background-color: #426B1F;
+    text-decoration: none;
+    font-size: 20px;
+}
+
+.sector-two {
+    text-transform: uppercase;
+    font-weight: 600;
+}
+
+.main-title {
+    color: gray;
+}
+
+.main-title-sub {
+    color: #333;
+}
+
+.services {
+    background: #bdbdbd;
+}
+
+.about-company {
+    color:aqua;
+}
+
+.button-review {
+    color: #FFFFFF;
+    background-color: #426B1F;
+}
+
+.footer-call {
+    color: #FFFFFF;
+}
+
+.review-list {
+    background-color: #bdbdbd;
+}
+
+.footer-info {
+    color: #FFFFFF;
+    text-decoration: none;
+}
+
+.main-title {
+    font-weight: 900;
+    font-size: 24px;
+}
+
+.main-title-sub {
+    font-weight: 900;
+    font-size: 48px;
+}
+
+.italic {
+    font-style: italic;
+}
+
+.main-title-a {
+    font-family: "Newsreader";
+    font-weight: 400;
+    font-size: 64px;
+    line-height: 160%;
+}
+
+.sector-two-sub {
+    font-size: 20px;
+    font-weight: 300;
+    line-height: 100%;
+}
+
+.sector-two-sub-a {
+    font-size: 20px;
+    font-weight: 300;
+    line-height: 160%;
+}
+
+.main-titleunder {
+    font-weight: 600;
+}
